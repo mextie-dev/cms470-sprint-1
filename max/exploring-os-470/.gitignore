@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!mem.c
+!threads.c
+!cpu.c
+!Makefile
+!common.h
+!common_threads.h
+!README.md
+!readme
+!readme.md
+!README
