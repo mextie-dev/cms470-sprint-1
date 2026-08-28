@@ -22,6 +22,6 @@
 
 Max: Drake - Headlines
 
-Zachary:
+Zachary: Glass Animals - The Other Side of Paradise
 
 Joaquin: 
