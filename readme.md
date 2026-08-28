@@ -4,7 +4,7 @@
 
 (a): 
 
-(b):
+(b): No, virtualization is critical to abstraction. If no element of the bare metal is virtualized, then there's nothing for the abstraction to sit on top of. Abstraction always sits on top of virtualization.
 
 (c):
 
