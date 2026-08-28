@@ -24,4 +24,4 @@ Max: Drake - Headlines
 
 Zachary: Glass Animals - The Other Side of Paradise
 
-Joaquin: 
+Joaquin: Tú con El - Frankie Ruiz
