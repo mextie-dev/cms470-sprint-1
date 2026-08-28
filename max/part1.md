@@ -19,6 +19,10 @@
 - Will assigned groups be the norm going forward?
 
 ## Questions for Me
+
 1. Hopefully, I would be engineering front-end systems for games or applications that are fun to use, in a language that is fun to write (dream job I'd just write everything in Ruby and call it a day)
 
-2. 
+2. - Independent work
+    - Instructor-guided problems
+    - Lectures
+    - Group work 
