@@ -10,7 +10,7 @@
 
 ## 1.2.1
 
-(a): 
+(a): Interrupts occur due to events and inputs outside of the current operating scope, such as keystrokes or external alerts.The program will stop, handle the interrupt, and then resume operation from where it stopped. Traps occur due to events and commands from the currently running program or instruction set, and immediately abort the program (or returns to the program that an unrecoverable error has occured). 
 
 ## 1.2.2
 
