@@ -14,9 +14,9 @@
 
 ## 1.2.2
 
-(a):
+(a): Yes, multiprogramming can be done without interrupts. The CPU can be directed to other programs in other ways, like time-based or other instructions.
 
-(b):
+(b): Yes, time-sharing is possible without interrupts, for the same reason as multiprogramming.
 
 ## Baseball Walk-Up
 
