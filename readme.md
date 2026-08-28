@@ -8,7 +8,7 @@
 
 (c): Yes, every operating system on Earth works like this. It is essential to the user (both end and technical) fully being able to understand and interop with their computer.
 
-## 1.1.2
+## 1.2.1
 
 (a): 
 
