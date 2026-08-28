@@ -9,7 +9,9 @@ int main(int argc, char *argv[]) {
     }
     char *str = argv[1];
 
-    while (1) {
+    for (int i = 0; i < 7; i++) {
+	    printf("%d", i);
+	    printf(" + ");
 	    printf("%s\n", str);
 	    Spin(1);
     }
