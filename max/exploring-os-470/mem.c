@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
     printf("(%d) addr pointed to by p: %p\n", (int) getpid(), p);
     *p = 0;
     
-    while (1) {
+    for (int i = 0; i < 10; i++) {
 	    Spin(1);
 	    *p = *p + 1;
 	    printf("(%d) value of p: %d\n", getpid(), *p);
